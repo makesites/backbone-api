@@ -10,3 +10,6 @@
 [submodule "backbone.twitter"]
 	path = backbone.twitter
 	url = git://gist.github.com/3904693.git
+[submodule "facebook"]
+	path = facebook
+	url = https://gist.github.com/4710985.git
