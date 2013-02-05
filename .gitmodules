@@ -1,7 +1,7 @@
-[submodule "backbone.crudr"]
+[submodule "crudr"]
 	path = backbone.crudr
 	url = git://gist.github.com/2965050.git
-[submodule "backbone.twitter"]
+[submodule "twitter"]
 	path = backbone.twitter
 	url = git://gist.github.com/3904693.git
 [submodule "facebook"]
