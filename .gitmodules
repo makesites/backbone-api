@@ -1,9 +1,9 @@
-[submodule "crudr"]
-	path = crudr
-	url = git://gist.github.com/2965050.git
+[submodule "facebook"]
+	path = facebook
+	url = git://gist.github.com/4710985.git
 [submodule "twitter"]
 	path = twitter
 	url = git://gist.github.com/3904693.git
-[submodule "facebook"]
-	path = facebook
-	url = https://gist.github.com/4710985.git
+[submodule "crudr"]
+	path = crudr
+	url = git://gist.github.com/2965050.git
