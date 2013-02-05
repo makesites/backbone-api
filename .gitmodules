@@ -1,12 +1,6 @@
 [submodule "backbone.crudr"]
 	path = backbone.crudr
 	url = git://gist.github.com/2965050.git
-[submodule "backbone.modal"]
-	path = backbone.modal
-	url = git://gist.github.com/3446570.git
-[submodule "backbone.session"]
-	path = backbone.session
-	url = git://gist.github.com/1824154.git
 [submodule "backbone.twitter"]
 	path = backbone.twitter
 	url = git://gist.github.com/3904693.git
