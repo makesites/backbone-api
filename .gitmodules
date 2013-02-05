@@ -1,8 +1,8 @@
 [submodule "crudr"]
-	path = backbone.crudr
+	path = crudr
 	url = git://gist.github.com/2965050.git
 [submodule "twitter"]
-	path = backbone.twitter
+	path = twitter
 	url = git://gist.github.com/3904693.git
 [submodule "facebook"]
 	path = facebook
