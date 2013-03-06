@@ -22,7 +22,7 @@ git submodule init
 git submodule update
 ```
 
-It is recommended though that you cherry pick the component you'd like to use instead of using the whole collection in you application. 
+It is recommended though that you cherry pick the component(s) you'd like to use instead of using the whole collection in your application. 
 
 
 ## Credits 
