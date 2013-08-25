@@ -19,3 +19,6 @@
 [submodule "itunes"]
 	path = itunes
 	url = git://github.com/backbone-api/itunes.git
+[submodule "foursquare"]
+	path = foursquare
+	url = git://github.com/backbone-api/foursquare.git
