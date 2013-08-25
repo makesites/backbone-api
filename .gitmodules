@@ -13,3 +13,6 @@
 [submodule "vimeo"]
 	path = vimeo
 	url = git://github.com/backbone-api/vimeo.git
+[submodule "youtube"]
+	path = youtube
+	url = git://github.com/backbone-api/youtube.git
