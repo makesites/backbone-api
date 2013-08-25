@@ -16,3 +16,6 @@
 [submodule "youtube"]
 	path = youtube
 	url = git://github.com/backbone-api/youtube.git
+[submodule "itunes"]
+	path = itunes
+	url = git://github.com/backbone-api/itunes.git
