@@ -7,3 +7,6 @@
 [submodule "crudr"]
 	path = crudr
 	url = git://github.com/backbone-api/crudr.git
+[submodule "adsense"]
+	path = adsense
+	url = git://github.com/backbone-api/adsense.git
