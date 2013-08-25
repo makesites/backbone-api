@@ -10,3 +10,6 @@
 [submodule "adsense"]
 	path = adsense
 	url = git://github.com/backbone-api/adsense.git
+[submodule "vimeo"]
+	path = vimeo
+	url = git://github.com/backbone-api/vimeo.git
