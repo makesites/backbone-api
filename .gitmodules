@@ -22,3 +22,6 @@
 [submodule "foursquare"]
 	path = foursquare
 	url = git://github.com/backbone-api/foursquare.git
+[submodule "behance"]
+	path = behance
+	url = git://github.com/backbone-api/behance.git
